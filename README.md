@@ -9,4 +9,4 @@ Every composition is divided into Vocal Alap, Pallavi, Anupallavi, Charanam and 
 Since the composition also has phrases which is a conglomeration of the swaras, those phrases are manually annotated as well.
 The Sama is the start of the rhythm cycle in Carnatic Music. The annotations of the sama is given in the file of same name. The timestamps define the start of the taala (rhythm) cycle. 
 
-The audio for the folder can be found in http://dunya.compmusic.upf.edu.[would be loaded to internet archive later].
+The audio for the folder can be found in https://archive.org/details/Manual_Annotation_Saraga_mp3
