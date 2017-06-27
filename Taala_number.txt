@@ -1,1 +1,20 @@
-7	Kha??a ch?pu25	R?paka3	Ti?ra-j?ti ?ka122	?di4	Kha??a-j?ti ?ka1	Mi?ra-j?ti jha?pe4	A??a1	Catura?ra-j?ti jha?pe1	D???di16	Mi?ra ch?pu
+7	Khanda chapu
+
+25	Rupaka
+
+3	Tisra-jati eka
+
+122	Adi
+
+4	Khanda-jati eka
+
+1	Mitra-jati jhampe
+
+4	Atta
+
+1	Caturashra-jati jhampe
+
+1	Desadi
+
+16	Misra chapu
+
